@@ -1,4 +1,14 @@
 -------------------------------------------------------------------
+Mon Apr 13 11:52:24 UTC 2020 - Imobach Gonzalez Sosa <igonzalezsosa@suse.com>
+
+- Small improvements to CWM based widgets (related to bsc#1136454):
+  - An editable ComboBox will refresh the list of items when a new
+    one is given as its current value.
+  - By default, a MenuButton widget listens to events from all its
+    buttons.
+- 4.2.82
+
+-------------------------------------------------------------------
 Tue Apr  7 08:33:55 UTC 2020 - Stefan Hundhammer <shundhammer@suse.com>
 
 - Retranslate wizard help button in NCurses UI (bsc#1167224)
