@@ -1,4 +1,11 @@
 -------------------------------------------------------------------
+Thu Jul 23 14:53:31 UTC 2020 - Knut Anderssen <kanderssen@suse.com>
+
+- Provide a way to determine which resources (zones, services...)
+  have been modified from the default values (bsc#1171356)
+- 4.3.16
+
+-------------------------------------------------------------------
 Thu Jul 16 12:48:24 UTC 2020 - Ancor Gonzalez Sosa <ancor@suse.com>
 
 - Better management of libzypp repovars (eg. those enclosed in
